@@ -1,4 +1,4 @@
-# :pushpin:Repositório com Links Úteis
+# :pushpin:Links Úteis
 
 * [:books:Cursos de Programação e Tecnologia Gratuitos ](https://github.com/thais4rauj0/links-uteis/edit/main/README.md#bookscursos-de-programa%C3%A7%C3%A3o-e-tecnologia-gratuitos)
 * [:books:Cursos de Idiomas Gratuitos](https://github.com/thais4rauj0/links-uteis/edit/main/README.md#bookscursos-de-idiomas-gratuitos)
