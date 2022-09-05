@@ -56,7 +56,7 @@
 <li><a href="https://bsp.org.br/biblion/">Biblion</a></li>
 </ul>
 
-### :framed_picture:Banco de Imagens, Ilustrações e Ícones Gratuitos
+### :framed_picture:Banco de Imagens, Ilustrações e Ícones
 <ul>
 <li><a href="https://unsplash.com/s/photos/traveller">Unsplash</a></li>
 <li><a href="https://pixabay.com/pt/">Pixabay</a></li>
