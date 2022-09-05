@@ -1,5 +1,12 @@
 # :pushpin:Repositório com Links Úteis
 
+* [:books:Cursos de Programação e Tecnologia Gratuitos ](https://github.com/thais4rauj0/links-uteis/edit/main/README.md#bookscursos-de-programa%C3%A7%C3%A3o-e-tecnologia-gratuitos)
+* [:books:Cursos de Idiomas Gratuitos](https://github.com/thais4rauj0/links-uteis/edit/main/README.md#bookscursos-de-idiomas-gratuitos)
+* [:books:Cursos Diversos Gratuitos](https://github.com/thais4rauj0/links-uteis/edit/main/README.md#bookscursos-diversos-e-gratuitos)
+* [:books:Livros Gratuitos](https://github.com/thais4rauj0/links-uteis/edit/main/README.md#bookslivros-gratuitos)
+* [:framed_picture:Banco de Imagens, Ilustrações e Ícones Gratuitos](https://github.com/thais4rauj0/links-uteis/edit/main/README.md#framed_picturebanco-de-imagens-ilustra%C3%A7%C3%B5es-e-%C3%ADcones-gratuitos)
+
+
 ### :books:Cursos de Programação e Tecnologia Gratuitos 
 
 <ul>
@@ -26,7 +33,7 @@
 <li><a href="https://learn-english-online.org/index.htm">Learn English Online - apenas Inglês</a></li>
 </ul>
 
-### :books:Cursos Diversos e Gratuitos
+### :books:Cursos Diversos Gratuitos
 <ul>
 <li><a href="https://www.ev.org.br/cursos">Fundação Bradesco</a></li>
 <li><a href="https://educacao-executiva.fgv.br/cursos/gratuitos">Fundação Getúlio Vargas</a></li>
