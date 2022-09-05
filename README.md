@@ -49,5 +49,18 @@
 <li><a href="https://bsp.org.br/biblion/">Biblion</a></li>
 </ul>
 
+### :framed_picture:Banco de Imagens e Ícones Gratuitos
+<ul>
+<li><a href="https://unsplash.com/s/photos/traveller">Unsplash</a></li>
+<li><a href="https://pixabay.com/pt/">Pixabay</a></li>
+<li><a href="https://www.freepik.com/">Freepik</a></li>
+<li><a href="https://fontawesome.com/icons">Font Awesome</a></li>
+<li><a href="https://www.flaticon.com/">Flaticon</a></li>
+<li><a href="https://picjumbo.com/">PicJumbo</a></li>
+<li><a href="https://www.flickr.com/">Flickr</a></li>
+<li><a href="https://pt.vecteezy.com/">Vecteezy</a></li>
+<li><a href="https://freerangestock.com/popular_photos.php">FreeRange Stock</a></li>
+<li><a href="https://www.shopify.com.br/burst">Burst</a></li>
+</ul>
 
 
