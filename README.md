@@ -49,7 +49,7 @@
 <li><a href="https://bsp.org.br/biblion/">Biblion</a></li>
 </ul>
 
-### :framed_picture:Banco de Imagens e Ícones Gratuitos
+### :framed_picture:Banco de Imagens, Ilustrações e Ícones Gratuitos
 <ul>
 <li><a href="https://unsplash.com/s/photos/traveller">Unsplash</a></li>
 <li><a href="https://pixabay.com/pt/">Pixabay</a></li>
@@ -61,6 +61,14 @@
 <li><a href="https://pt.vecteezy.com/">Vecteezy</a></li>
 <li><a href="https://freerangestock.com/popular_photos.php">FreeRange Stock</a></li>
 <li><a href="https://www.shopify.com.br/burst">Burst</a></li>
+<li><a href="https://drawkit.com/">Draw Kit</a></li>
+<li><a href="https://illlustrations.co/">Illustrations</a></li>
+<li><a href="https://undraw.co/illustrations">Undraw</a></li>
+<li><a href="https://illustrationkit.com/">Illustration Kit</a></li>
+<li><a href="https://www.blackillustrations.com/illustrations/the-office-hustle-illustration-pack-official">Black Illustrations</a></li>
+<li><a href="https://lukaszadam.com/illustrations">Lukasz Adam</a></li>
+<li><a href="https://www.reshot.com/">Reshot</li>
+<li><a href="https://stubborn.fun/">Stubborn</a></li>
 </ul>
 
 
