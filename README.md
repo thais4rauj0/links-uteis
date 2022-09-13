@@ -5,6 +5,7 @@
 * [:books:Cursos Diversos Gratuitos](https://github.com/thais4rauj0/links-uteis/edit/main/README.md#bookscursos-diversos-e-gratuitos)
 * [:books:Livros Gratuitos](https://github.com/thais4rauj0/links-uteis/edit/main/README.md#bookslivros-gratuitos)
 * [:framed_picture:Banco de Imagens, Ilustrações e Ícones Gratuitos](https://github.com/thais4rauj0/links-uteis/edit/main/README.md#framed_picturebanco-de-imagens-ilustra%C3%A7%C3%B5es-e-%C3%ADcones-gratuitos)
+* [:framed_picture:Slides e apresentações](https://github.com/thais4rauj0/links-uteis/edit/main/README.md#framed_pictureslides-e-apresenta%C3%A7%C3%B5es)
 
 
 ### :books:Cursos de Programação e Tecnologia Gratuitos 
@@ -76,6 +77,14 @@
 <li><a href="https://lukaszadam.com/illustrations">Lukasz Adam</a></li>
 <li><a href="https://www.reshot.com/">Reshot</li>
 <li><a href="https://stubborn.fun/">Stubborn</a></li>
+</ul>
+
+### :framed_picture:Slides e Apresentações
+<ul>
+<li><a href="https://slidesgo.com/">Slides Go</a></li>
+<li><a href="https://slidesmania.com/">Slides Mania</a></li>
+<li><a href="https://www.slidescarnival.com/pt-br">Slides Carnnival</a></li>
+<li><a href="https://slidemodel.com/google-slides/">Slide Model</a></li>
 </ul>
 
 
