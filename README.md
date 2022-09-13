@@ -44,6 +44,7 @@
 <li><a href="http://www.brasilmaisdigital.org.br/index.php/pt-br/">Brasil + Digital</a></li>
 <li><a href="https://pt.khanacademy.org/">Khan Academy</a></li>
 <li><a href="https://www.learncafe.com/cursos-gratis">Learncafe</a></li>
+ <li><a href="https://portalgeead.cps.sp.gov.br/mooc/">MOOC - Centro Paula Souza</a></li>
 </ul>
  
 ### :books:Livros Gratuitos
