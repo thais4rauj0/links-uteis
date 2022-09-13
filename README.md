@@ -84,7 +84,7 @@
 <ul>
 <li><a href="https://slidesgo.com/">Slides Go</a></li>
 <li><a href="https://slidesmania.com/">Slides Mania</a></li>
-<li><a href="https://www.slidescarnival.com/pt-br">Slides Carnnival</a></li>
+<li><a href="https://www.slidescarnival.com/pt-br">Slides Carnival</a></li>
 <li><a href="https://slidemodel.com/google-slides/">Slide Model</a></li>
 </ul>
 
