@@ -1,11 +1,11 @@
 # :pushpin:Links Úteis - Cursos, livros, banco de imagens e mais.
 
-* [:books:Cursos de Programação e Tecnologia Gratuitos ](https://github.com/thais4rauj0/links-uteis/edit/main/README.md#bookscursos-de-programa%C3%A7%C3%A3o-e-tecnologia-gratuitos)
-* [:books:Cursos de Idiomas Gratuitos](https://github.com/thais4rauj0/links-uteis/edit/main/README.md#bookscursos-de-idiomas-gratuitos)
-* [:books:Cursos Diversos Gratuitos](https://github.com/thais4rauj0/links-uteis/edit/main/README.md#bookscursos-diversos-e-gratuitos)
-* [:books:Livros Gratuitos](https://github.com/thais4rauj0/links-uteis/edit/main/README.md#bookslivros-gratuitos)
-* [:framed_picture:Banco de Imagens, Ilustrações e Ícones Gratuitos](https://github.com/thais4rauj0/links-uteis/edit/main/README.md#framed_picturebanco-de-imagens-ilustra%C3%A7%C3%B5es-e-%C3%ADcones-gratuitos)
-* [:framed_picture:Slides e apresentações](https://github.com/thais4rauj0/links-uteis/edit/main/README.md#framed_pictureslides-e-apresenta%C3%A7%C3%B5es)
+* [:books:Cursos de Programação e Tecnologia Gratuitos ](https://github.com/thais4rauj0/links-uteis#bookscursos-de-programa%C3%A7%C3%A3o-e-tecnologia-gratuitos)
+* [:books:Cursos de Idiomas Gratuitos](https://github.com/thais4rauj0/links-uteis#bookscursos-de-idiomas-gratuitos)
+* [:books:Cursos Diversos Gratuitos](https://github.com/thais4rauj0/links-uteis#bookscursos-diversos-gratuitos)
+* [:books:Livros Gratuitos](https://github.com/thais4rauj0/links-uteis#bookslivros-gratuitos)
+* [:framed_picture:Banco de Imagens, Ilustrações e Ícones Gratuitos](https://github.com/thais4rauj0/links-uteis#framed_picturebanco-de-imagens-ilustra%C3%A7%C3%B5es-e-%C3%ADcones)
+* [:framed_picture:Slides e apresentações](https://github.com/thais4rauj0/links-uteis#framed_pictureslides-e-apresenta%C3%A7%C3%B5es)
 
 
 ### :books:Cursos de Programação e Tecnologia Gratuitos 
