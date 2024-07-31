@@ -6,6 +6,7 @@
 * [:books:Livros Gratuitos](https://github.com/thais4rauj0/links-uteis#bookslivros-gratuitos)
 * [:framed_picture:Banco de Imagens, Ilustrações e Ícones Gratuitos](https://github.com/thais4rauj0/links-uteis#framed_picturebanco-de-imagens-ilustra%C3%A7%C3%B5es-e-%C3%ADcones)
 * [:framed_picture:Slides e apresentações](https://github.com/thais4rauj0/links-uteis#framed_pictureslides-e-apresenta%C3%A7%C3%B5es)
+* [:wrench:Ferramentas](https://github.com/thais4rauj0/links-uteis/edit/main/README.md#wrenchferramentas)
 
 
 ### :books:Cursos de Programação e Tecnologia Gratuitos 
@@ -16,11 +17,15 @@
 <li><a href="https://www.fiap.com.br/2022/06/06/fiap-disponibilza-20-cursos-gratuitos-nas-areas-de-tecnologia-e-negocios/">FIAP - 20 cursos gratuitos</li>
 <li><a href="https://www.freecodecamp.org/learn">FreeCodeCamp</li>
 <li><a href="https://www.dio.me/">DIO - cursos e bootcamps gratuitos</li>
-<li><a href="https://letscode.com.br/">Let's Code by ADA - bootcamps gratuitos</a></li>
-<li><a href="">Becas Santander - bolsas, cursos e bootcamps</a></li>
+<li><a href="https://letscode.com.br/">ADA - bootcamps gratuitos</a></li>
+<li><a href="https://www.santanderopenacademy.com/pt_br/index.html">Open Academy - Santander</a></li>
 <li><a href="https://www.codecademy.com/catalog">Code Academy</a></li>
 <li><a href="https://www.cisco.com/c/pt_br/training-events/networking-academy/women-rock-it/courses.html">Cisco Networking Academy</a></li>
 <li><a href="https://www.edx.org/">edX</a></li>
+<li><a href="https://ticemtrilhas.org.br/">TIC em Trilhas</a></li>
+<li><a href="https://www.proway.com.br/blog/categoria/programas-de-formacao">Proway - Programas de Formação</a></li>
+<li><a href="https://cdi.org.pt/recode-portugal/">Recode</a></li>
+<li><a href="https://online.pucrs.br/certificacao-profissional?utm_term=&utm_campaign=GADS_PRF_Conv_PMAX_PUCRSGRAD_Graduacao_INST-GENERICO&utm_source=google&utm_medium=cpc&hsa_acc=3867638348&hsa_cam=21433373996&hsa_grp=&hsa_ad=&hsa_src=x&hsa_tgt=&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=EAIaIQobChMI8YHR58PRhwMVLWJIAB263TAkEAAYASABEgJCk_D_BwE&areas=tecnologia">PUC RS -  Cursos Gratuitos</a></li>
 </ul>
 
 ### :books:Cursos de Idiomas Gratuitos
@@ -50,12 +55,12 @@
 ### :books:Livros Gratuitos
 
 <ul>
-<li><a href="https://pt.b-ok.lat/">ZLibrary</a></li>
 <li><a href="https://www.amazon.com.br/s?k=kindle+livros+gratuitos&i=digital-text&adgrpid=80232326046&gclid=CjwKCAjwvNaYBhA3EiwACgndgkUo4U0bPkkuRuqp7b0sNQd8Msi3D0NLoER-EkIvNq1u4zsPPsBzBBoCXksQAvD_BwE&hvadid=393033770551&hvdev=c&hvlocphy=1001777&hvnetw=g&hvqmt=e&hvrand=4867160316697180744&hvtargid=kwd-806955968803&hydadcr=5512_10808838&tag=hydrbrgk-20&ref=pd_sl_5v00qmb834_e">Amazon - Kindle</a></li>
 <li><a href="https://mojo.org.br/ebooks/">Mojo</a></li>
-<li><a href="https://lelivros.love/">Le Livros</a></li>
 <li><a href="https://www.livrosgratis.com.br/">Livros Grátis</a></li>
 <li><a href="https://bsp.org.br/biblion/">Biblion</a></li>
+<li><a href="https://archive.org/details/books">Internet Archive - Books</a></li>
+<li><a href="https://doceru.com/">Docero Brasil</a></li>
 </ul>
 
 ### :framed_picture:Banco de Imagens, Ilustrações e Ícones
@@ -86,6 +91,17 @@
 <li><a href="https://slidesmania.com/">Slides Mania</a></li>
 <li><a href="https://www.slidescarnival.com/pt-br">Slides Carnival</a></li>
 <li><a href="https://slidemodel.com/google-slides/">Slide Model</a></li>
+</ul>
+
+### :wrench:Ferramentas
+<ul>
+<li><a href="https://more.ufsc.br/livros/inserir_livros"> More - Mecanismo Online para Referências</a></li>
+<li><a href="https://noplag.com/">No Plag - Verificador de plágio</a></li>
+<li><a href="https://www.grammarly.com/plagiarism-checker">Grammarly - Verificador de plágio</a></li>
+<li><a href="https://www.grammarly.com/a/citations">Grammarly - Gerador de citações</a></li>
+<li><a href="https://copyleaks.com/">Copyleaks - Verificador de plágio e conteúdo gerado por IA</a></li>
+<li><a href="https://smodin.io/pt/resumidor-de-texto">Smodin - IA para resumos de artigos e pesquisas acadêmicas</a></li>
+<li><a href="https://socratic.org/">Socratic - IA que ajuda com questões de matemática, química e física</a></li>
 </ul>
 
 
